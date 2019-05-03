@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Verack/taller_stack/issues"
   },
-  "homepage": "https://github.com/Verack/taller_stack#readme"
+  "homepage": "https://github.com/Verack/taller_stack#readme",
+  "dependencies": {
+    "fastify": "^2.3.0",
+    "fastify-mysql": "^0.2.0"
+  }
 }
